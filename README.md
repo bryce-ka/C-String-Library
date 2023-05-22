@@ -6,9 +6,6 @@ This library provides custom implementations of core string processing functions
 - Bryce Anthony
 - Lydia Catterall
 
-## Time Spent
-5 hours
-
 ## Functions
 
 ### `size_t mystrlen(const char* string)`
@@ -72,5 +69,3 @@ This function returns a pointer to the first occurrence of the character `c` in 
 - Returns:
   - `s + i`: A pointer to the first occurrence of the character `c` in string `s`.
 
-## Usage
-You can use this library
